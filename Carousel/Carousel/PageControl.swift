@@ -2,7 +2,7 @@
 //  PageControl.swift
 //  Carousel
 //
-//  Created by Assistant on 11/6/25.
+//  Created by Hitesh Sharma on 11/6/25.
 //
 
 import SwiftUI
